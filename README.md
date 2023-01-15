@@ -1,1 +1,1 @@
-# I-am-Rich
+# Apps I made in iOS Development Bootcamp  
