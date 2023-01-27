@@ -1,1 +1,1 @@
-# Apps I made in iOS Development Bootcamp  
+# Apps I made at iOS Development Bootcamp course
